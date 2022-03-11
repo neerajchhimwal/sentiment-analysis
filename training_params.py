@@ -10,6 +10,8 @@ LOG_DIR = 'runs'
 LOAD_CHECKPOINT = True
 CHECKPOINT_PATH = 'checkpoints/checkpoint_last.pt'
 
+WANDB_PROJECT_NAME = 'sentiment-analysis'
+
 f = open(LABEL_DICT_PATH)
 LABEL_DICT = json.load(f)
 
