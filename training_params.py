@@ -7,7 +7,7 @@ VALID_DATA = '/home/neeraj/Downloads/sentiment_data/df_valid_with_preds.csv'
 LABEL_DICT_PATH = '/home/neeraj/Downloads/sentiment_data/label_map.json'
 CHECKPOINT_DIR = 'checkpoints'
 LOG_DIR = 'runs'
-LOAD_CHECKPOINT = True
+LOAD_CHECKPOINT = False
 CHECKPOINT_PATH = 'checkpoints/checkpoint_last.pt'
 
 WANDB_PROJECT_NAME = 'sentiment-analysis'
