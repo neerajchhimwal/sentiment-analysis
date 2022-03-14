@@ -1,0 +1,1 @@
+CHECKPOINT_PATH = '/home/neeraj/my-repos/sentiment-analysis/checkpoints/2022-03-11_15-59-10/checkpoint_last.pt'
